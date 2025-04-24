@@ -27,9 +27,6 @@
     },
     "version": "5.4.6",
     "dependencies": {
-        "TTNetworkManager": [
-            "5.0.29.22"
-        ]
     },
     "authors": "Bytedance, Inc.",
     "static_framework": false,

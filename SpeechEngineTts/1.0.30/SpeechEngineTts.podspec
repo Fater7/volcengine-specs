@@ -33,5 +33,4 @@ Pod::Spec.new do |s|
   s.vendored_framework      = 'SpeechEngineTts/SpeechEngineTts.framework'
   s.frameworks              = "AudioToolbox", "AVFoundation"
   s.libraries               = "c++"
-  s.dependency 'TTNetworkManager', '5.0.29.22'
 end
