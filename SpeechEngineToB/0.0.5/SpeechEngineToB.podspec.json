@@ -47,9 +47,6 @@
         "z"
     ],
     "dependencies": {
-        "TTNetworkManager": [
-            "5.0.29.22"
-        ]
     },
     "repoId": "41718",
     "prepare_command": "",
